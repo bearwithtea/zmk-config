@@ -24,7 +24,7 @@
 &kp TAB   &kp Q  &kp W    &kp E    &kp R     &kp T                       &kp Y  &kp U     &kp I     &kp O    &kp P    &kp RET
 &kp PG_UP   &kp A  &kp S    &kp D    &kp F     &kp G                       &kp H  &kp J     &kp K     &kp L    &kp SEMI &kp BACKSLASH
 &kp PG_DN &kp Z  &kp X    &kp C    &kp V     &kp B  &kp K_VOLUME_UP &kp C_FAST_FORWARD &kp N  &kp M     &kp COMMA &kp DOT  &kp FSLH &kp SQT
-                 &kp LGUI &kp LCTRL &kp LALT &kp LEFT_GUI  &kp LSHFT    &kp SPACE &kp RIGHT_GUI &kp RALT &kp RCTRL &kp RGUI
+                 &mo LOWER &kp LCTRL &kp LALT &kp LEFT_GUI  &kp LSHFT    &kp SPACE &kp RIGHT_GUI &kp RALT &kp RCTRL &kp RGUI
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
